@@ -1,0 +1,41 @@
+.navbar{
+    margin: 0;
+    padding:0;
+    display:flex;
+    height:100px;
+    background-color: aquamarine;
+    justify-content:space-between;
+    text-align: center;
+}
+
+.name1{
+    width:50%;
+    margin: 10px;
+    padding:20px 60px;
+}
+
+.nav1{
+    justify-content: flex-end;
+    padding-right: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width:50%;
+    display:flex;
+    text-align:center;
+}
+
+.nav{
+    font-size: large;
+    list-style: none;
+    text-decoration: none;
+    margin: 0px 20px;
+}
+
+.nav2{
+    list-style: none;
+}
+
+#title{
+    font-size: larger;
+    text-decoration: none;
+}

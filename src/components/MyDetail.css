@@ -1,0 +1,14 @@
+.mydetail{
+    padding:20px 20px;
+    margin:0px;
+}
+
+.img-wel{
+    display:flex;
+    justify-content: space-between;
+}
+
+.welcome{
+    padding:20px;
+    flex:0.6;
+}
