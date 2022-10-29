@@ -15,17 +15,15 @@ function App() {
     <Router>
     <div className="App">
       <Navbar1  />
-      <Routes>
-    <Route path="/MySkills"
-      element={<Myskills />}>
-    </Route> 
-    <Route path="/"
-      element={<MyDetail 
+      <MyDetail 
       name="Pratham Sursohi" 
       mobile="8XXXXXXXXX"
       Dob="01-01-2002"
-      email="xyz@gmail.com"/>}>
-    </Route> 
+      email="xyz@gmail.com"/>
+    <Routes>
+    <Route  path="/MySkills"
+      element={<Myskills />}>
+    </Route>  
     <Route path="/Myedu"
       element={<Myedu />}>
     </Route> 

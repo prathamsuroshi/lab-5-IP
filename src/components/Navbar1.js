@@ -9,10 +9,10 @@ const Navbar1 = (props) => {
         <div className="container">
             <div className="navbar">
                 <div className="name">
-                    <a id="title" href="/"><h2 className="name1">My profile</h2></a>
+                    <Link id="title" to="/"><h2 className="name1">My profile</h2></Link>
                 </div>
                 <div className="nav1">
-                    <li className="nav2"> <Link to="/" className="nav">Home</Link></li>
+                    <li className="nav2"> <Link to="/Mydetail" className="nav">Home</Link></li>
                     <li className="nav2"> <Link to="/Myskills" className="nav">My Skills</Link></li>
                     <li className="nav2"> <Link to="/Myedu" className="nav">My Education</Link></li>
                 </div>
