@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lab-5-IP/static/css/main.d3aa005f.css",
-    "main.js": "/lab-5-IP/static/js/main.a2377660.js",
+    "main.css": "/lab-5-IP/static/css/main.7360872d.css",
+    "main.js": "/lab-5-IP/static/js/main.76ff10af.js",
     "index.html": "/lab-5-IP/index.html",
-    "main.d3aa005f.css.map": "/lab-5-IP/static/css/main.d3aa005f.css.map",
-    "main.a2377660.js.map": "/lab-5-IP/static/js/main.a2377660.js.map"
+    "main.7360872d.css.map": "/lab-5-IP/static/css/main.7360872d.css.map",
+    "main.76ff10af.js.map": "/lab-5-IP/static/js/main.76ff10af.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3aa005f.css",
-    "static/js/main.a2377660.js"
+    "static/css/main.7360872d.css",
+    "static/js/main.76ff10af.js"
   ]
 }
